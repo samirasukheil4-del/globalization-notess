@@ -1,0 +1,9 @@
+(
+"name":App yangu",
+:short_name"App",
+"display": "standalone",
+"background_color":
+"#ffffff",
+"theme_color": "ffffff",
+"icons":()
+)
